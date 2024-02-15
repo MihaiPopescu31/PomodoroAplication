@@ -30,11 +30,4 @@ This Pomodoro Timer application allows users to set work sessions, short breaks,
 - Python 3.x
 - Tkinter library
 
-## Credits
-
-This project was created by [Your Name] and is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to [Name] for inspiration and guidance.
 
